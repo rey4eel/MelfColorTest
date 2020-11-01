@@ -1,0 +1,16 @@
+C:\Users\vardan.saakian\source\repos\MelfColorTest\bin\Debug\MelfColorTest.exe.config
+C:\Users\vardan.saakian\source\repos\MelfColorTest\bin\Debug\MelfColorTest.exe
+C:\Users\vardan.saakian\source\repos\MelfColorTest\bin\Debug\MelfColorTest.pdb
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MelfColorTest.csprojAssemblyReference.cache
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MainWindow.g.cs
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\App.g.cs
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MelfColorTest_MarkupCompile.cache
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MelfColorTest_MarkupCompile.lref
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MainWindow.baml
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MelfColorTest.g.resources
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MelfColorTest.Properties.Resources.resources
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MelfColorTest.csproj.GenerateResource.cache
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MelfColorTest.csproj.CoreCompileInputs.cache
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MelfColorTest.exe
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\MelfColorTest.pdb
+C:\Users\vardan.saakian\source\repos\MelfColorTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
